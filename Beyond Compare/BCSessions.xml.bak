@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="c.txt &lt;--> 2c.txt">
+						<CodePageOverride>
+							<Left Value="52936"/>
+							<Right Value="52936"/>
+						</CodePageOverride>
+						<LastModified Value="2022-03-11 14:15:56"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\1\c.txt"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\2\2c.txt"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="542_Zhonghua_Schrader_T18011861.c &lt;--> 565_Zhonghua_Electronic_T1810213.c">
+						<LastModified Value="2022-03-04 10:52:47"/>
+						<Specs>
+							<Left Value="D:\TPMS\software\AppProg\Source\5_CN_Car\21_Zhonghua_Series\Project\542_Zhonghua_Schrader_T18011861\Sources\542_Zhonghua_Schrader_T18011861.c"/>
+							<Right Value="D:\TPMS\software\AppProg\Source\5_CN_Car\21_Zhonghua_Series\Project\565_Zhonghua_Electronic_T1810213\Sources\565_Zhonghua_Electronic_T1810213.c"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="Sources">
+						<LastModified Value="2022-03-03 14:22:18"/>
+						<Specs>
+							<Left Value="D:\TPMS\software\AppProg\Source\5_CN_Car\21_Zhonghua_Series\Project\565_Zhonghua_Electronic_T1810213\Sources"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="crx_enc.h">
+						<LastModified Value="2022-01-07 13:48:08"/>
+						<Specs>
+							<Left Value="E:\CR529\software\OBD500\code_APP\ext_lib\crx_enc.h"/>
+							<Right Value="F:\chy\crx_enc.h"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CR971ProgData(IAR) &lt;--> T100ProgData(IAR)">
+						<LastModified Value="2021-11-11 21:03:12"/>
+						<Specs>
+							<Left Value="E:\T100\CR971ProgData(IAR)"/>
+							<Right Value="E:\T100\T100ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP">
+						<LastModified Value="2021-11-04 21:05:35"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CRT501_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CRT501_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP &lt;--> CRT501_APP">
+						<LastModified Value="2021-11-04 20:43:57"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CRT501_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ProgData(IAR) &lt;--> CR971ProgData(IAR)">
+						<LastModified Value="2021-11-04 20:38:50"/>
+						<Specs>
+							<Left Value="E:\CRT501\ThinkTPMS-T100\T100ProgData(IAR)"/>
+							<Right Value="E:\CRT501\software\CR971ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ExtFlashData &lt;--> ExtFlashData">
+						<LastModified Value="2021-10-19 19:20:18"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ThinkTPMS-T100\T100ExtFlashData"/>
+							<Right Value="E:\T200项目汇总\LZL\T200\ExtFlashData"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP &lt;--> ThinkTPMS_T200_APP">
+						<LastModified Value="2021-10-18 17:40:20"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="lcd_disp.c">
+						<LastModified Value="2021-10-18 17:19:42"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CRT501_APP\AppCom\LCD\src\lcd_disp.c"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP\AppCom\LCD\src\lcd_disp.c"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="T200ExtFlashData &lt;--> ExtFlashData">
+						<LastModified Value="2021-10-14 21:04:17"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200ExtFlashData"/>
+							<Right Value="E:\T200项目汇总\LZL\T200\ExtFlashData"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="StartLogo_CRT501.bin &lt;--> StartLogo_CRT501--.bin">
+						<LastModified Value="2021-10-14 09:30:25"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200ExtFlashData\ZiMo\StartLogo_CRT501.bin"/>
+							<Right Value="D:\ThinkTPMS-T200\T200ExtFlashData\ZiMo\StartLogo_CRT501--.bin"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="T200ExtFlashData &lt;--> ExtFlashData">
+						<LastModified Value="2021-10-14 09:17:59"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200ExtFlashData"/>
+							<Right Value="E:\CRT501\software\ExtFlashData"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_APP &lt;--> ThinkTPMS_T200_APP">
+						<LastModified Value="2021-10-13 23:19:44"/>
+						<Specs>
+							<Left Value="D:\CR629_APP"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="OBD500">
+						<LastModified Value="2021-09-17 20:12:05"/>
+						<Specs>
+							<Left Value="D:\529\CR529\OBD500"/>
+							<Right Value="C:\Users\geyuanbo\Documents\OBD500"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP &lt;--> ThinkTPMS_T200_APP">
+						<LastModified Value="2021-09-14 21:02:02"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CRT501_APP"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_BOOT &lt;--> T200_BOOT">
+						<LastModified Value="2021-09-11 16:30:39"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_BOOT"/>
+							<Right Value="D:\ThinkTPMS-T200\T200_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="startup_stm32f40_41xxx.s">
+						<LastModified Value="2021-09-09 18:01:53"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\keil---IAR\keil\CORE\startup_stm32f40_41xxx.s"/>
+							<Right Value="C:\Users\geyuanbo\AppData\Roaming\CCwork\3975902765517834\FileRecv\startup_stm32f40_41xxx.s"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CR301_GD">
+						<LastModified Value="2021-09-07 21:06:32"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD"/>
+							<Right Value="E:\OBD100\CR301_GD"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="software">
+						<LastModified Value="2021-09-06 18:06:48"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD\AL300GD\software"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CR301_GD\software"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_APP &lt;--> APP">
+						<LastModified Value="2021-08-31 20:59:02"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD\software\code_APP"/>
+							<Right Value="E:\OBD100\MM32F103\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="software">
+						<LastModified Value="2021-08-30 21:00:39"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD\software"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CR301_GD\AL300GD\software"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_BOOT &lt;--> T200_BOOT">
+						<LastModified Value="2021-08-26 21:12:55"/>
+						<Specs>
+							<Left Value="D:\CR629_BOOT"/>
+							<Right Value="D:\ThinkTPMS-T200\T200_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_RESET &lt;--> T200_RESET">
+						<LastModified Value="2021-08-21 20:18:37"/>
+						<Specs>
+							<Left Value="D:\CR629_RESET"/>
+							<Right Value="D:\ThinkTPMS-T200\T200_RESET"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="GD32f4xx_SDRAM.icf &lt;--> stm32f2xx_Diagnose_Wd2-SDRAM.icf">
+						<LastModified Value="2021-08-21 20:18:26"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP\AppProject\Project\GD32f4xx_SDRAM.icf"/>
+							<Right Value="D:\CR629_APP\AppProject\Project\stm32f2xx_Diagnose_Wd2-SDRAM.icf"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="T200_BOOT &lt;--> CRT501_BOOT">
+						<LastModified Value="2021-08-21 19:20:05"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200_BOOT"/>
+							<Right Value="E:\CRT501\software\CRT501_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="LCD">
+						<LastModified Value="2021-08-21 17:05:59"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200_BOOT\AppCom\LCD"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CRT501_APP\AppCom\LCD"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_BOOT &lt;--> CR629_BOOT">
+						<LastModified Value="2021-08-20 18:07:08"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_BOOT"/>
+							<Right Value="D:\CR629_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T200_APP &lt;--> CR629_APP">
+						<LastModified Value="2021-08-20 18:07:08"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+							<Right Value="D:\CR629_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="HexToBin_SDRAM.bat">
+						<LastModified Value="2021-08-20 14:21:21"/>
+						<Specs>
+							<Left Value="E:\CR629\CR629_APP\Tool\HexToBin_SDRAM.bat"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP\Tool\HexToBin_SDRAM.bat"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CRT501_BOOT">
+						<LastModified Value="2021-08-19 20:19:00"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_BOOT"/>
+							<Right Value="E:\CRT501\software\CRT501_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T200ExtFlashData &lt;--> T100ExtFlashData">
+						<LastModified Value="2021-08-18 20:14:55"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200ExtFlashData"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\T100ExtFlashData"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="UserFile _CR301GD_CN.bat &lt;--> UserFile _CR301GD_EN.bat">
+						<LastModified Value="2021-08-18 18:53:35"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD\software\FlashData\MergeFile\UserFile _CR301GD_CN.bat"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\CR301_GD\software\FlashData\MergeFile\UserFile _CR301GD_EN.bat"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CR301_GD &lt;--> OBD100_GD">
+						<LastModified Value="2021-08-18 18:28:09"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR301_GD"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\OBD100_GD"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="OBD100_GD &lt;--> CR301_GD">
+						<LastModified Value="2021-08-18 15:07:53"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\OBD100_GD"/>
+							<Right Value="E:\OBD100\CR301_GD"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="UserFile _CR301GD_CN.bat &lt;--> UserFile _CR301GD_USB.bat">
+						<LastModified Value="2021-08-18 11:51:58"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\OBD100_GD\software\FlashData\MergeFile\UserFile _CR301GD_CN.bat"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\OBD100_GD\software\FlashData\MergeFile\UserFile _CR301GD_USB.bat"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="code_APP &lt;--> APP">
+						<LastModified Value="2021-08-18 10:52:34"/>
+						<Specs>
+							<Left Value="E:\OBD100\CR301_GD\software\code_APP"/>
+							<Right Value="E:\OBD100\MM32F103\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T200_APP(2) &lt;--> ThinkTPMS_T200_APP">
+						<LastModified Value="2021-08-16 17:59:30"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS_T200_APP(2)"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T200_RESET &lt;--> ThinkTPMS_T200_APP">
+						<LastModified Value="2021-08-09 17:57:45"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200_RESET"/>
+							<Right Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_RESET &lt;--> CR629_APP">
+						<LastModified Value="2021-08-09 17:57:28"/>
+						<Specs>
+							<Left Value="D:\CR629_RESET"/>
+							<Right Value="D:\CR629_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ProgData(IAR)">
+						<LastModified Value="2021-08-09 10:30:13"/>
+						<Specs>
+							<Left Value="E:\CRT501\ThinkTPMS-T100\T100ProgData(IAR)"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\T100ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP">
+						<LastModified Value="2021-08-09 09:57:17"/>
+						<Specs>
+							<Left Value="E:\CRT501\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ExtFlashData &lt;--> ExtFlashData">
+						<LastModified Value="2021-08-03 18:19:23"/>
+						<Specs>
+							<Left Value="E:\CRT501\ThinkTPMS-T100\T100ExtFlashData"/>
+							<Right Value="E:\CRT501\software\ExtFlashData"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP &lt;--> CRT501_APP">
+						<LastModified Value="2021-08-02 18:06:38"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+							<Right Value="E:\CRT501\software\CRT501_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="LaunchFunctionNameAllMacroAutoGenerate(1).h &lt;--> LaunchFunctionNameAllMacroAutoGenerate.h">
+						<CodePageOverride>
+							<Left Value="0"/>
+							<Right Value="0"/>
+						</CodePageOverride>
+						<LastModified Value="2021-08-02 17:12:16"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\AppData\Roaming\CCwork\3975902765517834\FileRecv\LaunchFunctionNameAllMacroAutoGenerate(1).h"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\AppCom\TpmsLib\LaunchFunctionNameAllMacroAutoGenerate.h"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="GenericFunctionMacroAutoGenerate.h">
+						<LastModified Value="2021-08-02 16:25:38"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\AppData\Roaming\CCwork\3975902765517834\FileRecv\GenericFunctionMacroAutoGenerate.h"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\AppCom\TpmsLib\GenericFunctionMacroAutoGenerate.h"/>
+						</Specs>
+						<State>
+							<ShowContext Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CRT501_APP &lt;--> ThinkTPMS_T100_APP">
+						<LastModified Value="2021-07-21 09:11:02"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_APP"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T200_RESET &lt;--> Thinkscan_RESET_7.40">
+						<LastModified Value="2021-07-20 18:00:56"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\T200_RESET"/>
+							<Right Value="E:\T200项目汇总\LZL\T200\Thinkscan_RESET_7.40"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ProgData(IAR) &lt;--> T200ProgData(IAR)">
+						<LastModified Value="2021-07-20 14:09:21"/>
+						<Specs>
+							<Left Value="E:\CRT501\ThinkTPMS-T100\T100ProgData(IAR)"/>
+							<Right Value="E:\T200项目汇总\LZL\T200\T200ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T200_APP &lt;--> ThinkTPMS_T100_APP_7.60">
+						<LastModified Value="2021-07-15 10:33:22"/>
+						<Specs>
+							<Left Value="D:\ThinkTPMS-T200\ThinkTPMS_T200_APP"/>
+							<Right Value="E:\T200项目汇总\LZL\T200\ThinkTPMS_T100_APP_7.60"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_BOOT &lt;--> CR629_BOOT">
+						<LastModified Value="2021-07-14 17:59:18"/>
+						<Specs>
+							<Left Value="D:\CRT501_BOOT"/>
+							<Right Value="D:\CR629_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_RESET &lt;--> ThinkTPMS_T200_RESET">
+						<LastModified Value="2021-07-13 18:03:10"/>
+						<Specs>
+							<Left Value="D:\CR629_RESET"/>
+							<Right Value="E:\testProject\ThinkTPMS_T200_RESET"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="GUN_APP_Conf &lt;--> GUN_APP">
+						<LastModified Value="2021-07-13 16:33:44"/>
+						<Specs>
+							<Left Value="D:\完善工程2\gun\GUN_APP_Conf"/>
+							<Right Value="C:\Users\geyuanbo\Documents\X-431-TSGUN\GUN_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="TpmsActive">
+						<LastModified Value="2021-07-13 16:33:43"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CRT501_APP\TpmsActive"/>
+							<Right Value="D:\完善工程2\gun\GUN_APP_Conf\TpmsActive"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="APP">
+						<LastModified Value="2021-06-21 18:37:19"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CR17\MM32F103\CReader301\APP"/>
+							<Right Value="E:\21\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_APP">
+						<LastModified Value="2021-06-19 17:53:24"/>
+						<Specs>
+							<Left Value="E:\21\OBD500\code_APP"/>
+							<Right Value="E:\21\新建文件夹\lzl_OBD500\code_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_BOOT">
+						<LastModified Value="2021-06-19 17:49:41"/>
+						<Specs>
+							<Left Value="E:\21\OBD500\code_BOOT"/>
+							<Right Value="E:\21\新建文件夹\lzl_OBD500\code_BOOT"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="OBD500 &lt;--> lzl_OBD500">
+						<LastModified Value="2021-06-19 16:03:41"/>
+						<Specs>
+							<Left Value="E:\21\OBD500"/>
+							<Right Value="E:\21\新建文件夹\lzl_OBD500"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_APP &lt;--> APP">
+						<LastModified Value="2021-06-16 18:30:24"/>
+						<Specs>
+							<Left Value="D:\software\CR301_GD\software\code_APP"/>
+							<Right Value="D:\software\MM32F103\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_APP &lt;--> APP">
+						<LastModified Value="2021-06-16 15:20:31"/>
+						<Specs>
+							<Left Value="D:\OBD100\software\CR301_GD\software\code_APP"/>
+							<Right Value="D:\OBD100\software\MM32F103\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="code_APP &lt;--> APP">
+						<LastModified Value="2021-06-16 15:05:26"/>
+						<Specs>
+							<Left Value="D:\OBD100\CR301_GD\software\code_APP"/>
+							<Right Value="D:\OBD100\MM32F103\OBD100\MM32F103\CReader301\APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T200_APP &lt;--> ThinkTPMS_T200_RESET">
+						<LastModified Value="2021-05-31 17:40:10"/>
+						<Specs>
+							<Left Value="E:\testProject\ThinkTPMS_T200_APP"/>
+							<Right Value="E:\testProject\ThinkTPMS_T200_RESET"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP &lt;--> ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-31 17:35:36"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CRT501_APP"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="display.c">
+						<LastModified Value="2021-05-28 11:06:50"/>
+						<Specs>
+							<Left Value="E:\testProject\ThinkTPMS_T200_RESET\AppCom\Display\src\display.c"/>
+							<Right Value="E:\T200\T200\Thinkscan_RESET_7.40\AppCom\Display\src\display.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="APP_FILE.h">
+						<LastModified Value="2021-05-28 11:06:49"/>
+						<Specs>
+							<Left Value="E:\testProject\ThinkTPMS_T200_RESET\AppCom\FS\APP_FILE.h"/>
+							<Right Value="E:\T200\T200\Thinkscan_RESET_7.40\AppCom\FS\APP_FILE.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="exmc_sdram.c">
+						<CodePageOverride>
+							<Left Value="0"/>
+						</CodePageOverride>
+						<LastModified Value="2021-05-28 11:06:48"/>
+						<Specs>
+							<Left Value="E:\testProject\ThinkTPMS_T200_RESET\AppCom\src\exmc_sdram.c"/>
+							<Right Value="E:\T200\T200\Thinkscan_RESET_7.40\AppCom\src\exmc_sdram.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T200_RESET &lt;--> Thinkscan_RESET_7.40">
+						<LastModified Value="2021-05-28 11:06:47"/>
+						<Specs>
+							<Left Value="E:\testProject\ThinkTPMS_T200_RESET"/>
+							<Right Value="E:\T200\T200\Thinkscan_RESET_7.40"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-27 14:28:29"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP &lt;--> ThinkTPMS_T200_APP(2)">
+						<LastModified Value="2021-05-27 14:28:28"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+							<Right Value="E:\T200项目汇总\正在调试项目\ThinkTPMS_T200_APP(2)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="Thinkscan_RESET &lt;--> ThinkTPMS_T200_RESET">
+						<LastModified Value="2021-05-26 18:02:06"/>
+						<Specs>
+							<Left Value="D:\Thinkscan_RESET"/>
+							<Right Value="E:\T200项目汇总\备份\2021.4.26\ThinkTPMS_T200_RESET"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR629_APP &lt;--> CR629_RESET">
+						<LastModified Value="2021-05-26 17:32:01"/>
+						<Specs>
+							<Left Value="E:\CR629\CR629_APP"/>
+							<Right Value="E:\CR629\CR629_RESET"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP &lt;--> ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-26 11:31:22"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\2021.5.24\CRT501_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="RF_Recive &lt;--> RF_recive">
+						<LastModified Value="2021-05-25 17:03:07"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\RF_Recive"/>
+							<Right Value="D:\RF_recive"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="GUN_APP &lt;--> ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-25 09:24:43"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="LFSend.cpp">
+						<LastModified Value="2021-05-24 18:14:53"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP\TpmsActive\Source\LFSend.cpp"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\TpmsActive\Source\LFSend.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="RFSpi.cpp">
+						<LastModified Value="2021-05-24 18:14:53"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP\TpmsActive\Source\RFSpi.cpp"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\TpmsActive\Source\RFSpi.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="WISendReceiveAll.cpp">
+						<LastModified Value="2021-05-24 18:14:53"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP\TpmsActive\Source\WISendReceiveAll.cpp"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\TpmsActive\Source\WISendReceiveAll.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="CC1101.c">
+						<LastModified Value="2021-05-24 18:14:52"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP\TpmsActive\Source\CC1101.c"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\TpmsActive\Source\CC1101.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="gpio_do.c">
+						<LastModified Value="2021-05-24 18:14:52"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP\TpmsActive\Source\gpio_do.c"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP\TpmsActive\Source\gpio_do.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="lcd_disp.c">
+						<LastModified Value="2021-05-24 18:14:45"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\download\Src\driver\src\lcd_disp.c"/>
+							<Right Value="D:\X-431-TSGUN\download\Src\driver\src\lcd_disp.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="download">
+						<LastModified Value="2021-05-24 18:14:43"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\download"/>
+							<Right Value="D:\X-431-TSGUN\download"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-24 14:33:34"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+							<Right Value="C:\Users\geyuanbo\Documents\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="ActiveConfig.bin &lt;--> ActiveConfig.txt">
+						<LastModified Value="2021-05-22 17:52:29"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\钟宇恒\ActiveConfig.bin"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\钟宇恒\ActiveConfig.txt"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-21 18:03:40"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="GUN_APP">
+						<LastModified Value="2021-05-21 16:01:40"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\GUN_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\TSGUN\GUN_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="download">
+						<LastModified Value="2021-05-21 09:26:24"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\download"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\TSGUN\download"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="T100ProgData(IAR)">
+						<LastModified Value="2021-05-18 20:59:19"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ThinkTPMS-T100\T100ProgData(IAR)"/>
+							<Right Value="E:\CRT501\ThinkTPMS-T100\T100ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="download">
+						<LastModified Value="2021-05-18 09:29:20"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\TSGUN\download"/>
+							<Right Value="D:\X-431-TSGUN\download"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CR971ProgData(IAR) &lt;--> T100ProgData(IAR)">
+						<LastModified Value="2021-05-17 18:18:40"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\CR971ProgData(IAR)"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\T100ProgData(IAR)"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP">
+						<LastModified Value="2021-05-17 17:06:08"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_APP"/>
+							<Right Value="E:\CRT501\software\CRT501_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="RFData.c &lt;--> RFData(1).c">
+						<LastModified Value="2021-05-17 15:43:47"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\RFData.c"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\钟宇恒\RFData(1).c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="ActiveCofig.txt &lt;--> ActiveConfig.txt">
+						<LastModified Value="2021-05-15 20:42:45"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\钟宇恒\ActiveCofig.txt"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\钟宇恒\ActiveConfig.txt"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="CRT501_APP &lt;--> ThinkTPMS_T100_APP">
+						<LastModified Value="2021-05-14 10:27:01"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\CRT501_APP"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\ThinkTPMS_T100_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="CRT501_APP">
+						<LastModified Value="2021-05-12 11:25:27"/>
+						<Specs>
+							<Left Value="D:\CRT501-TEST\84M\CRT501_APP"/>
+							<Right Value="E:\CRT501\software\CRT501_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="LFSend.cpp">
+						<LastModified Value="2021-05-11 21:03:56"/>
+						<Specs>
+							<Left Value="D:\CRT501-TEST\84M\ThinkTPMS_T100_APP\TpmsActive\Source\LFSend.cpp"/>
+							<Right Value="D:\CRT501-TEST\CRT501_APP\TpmsActive\Source\LFSend.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="RFReceive.cpp">
+						<LastModified Value="2021-05-11 21:03:55"/>
+						<Specs>
+							<Left Value="D:\CRT501-TEST\84M\ThinkTPMS_T100_APP\TpmsActive\Source\RFReceive.cpp"/>
+							<Right Value="D:\CRT501-TEST\CRT501_APP\TpmsActive\Source\RFReceive.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="ThinkTPMS_T100_APP &lt;--> CRT501_APP">
+						<LastModified Value="2021-05-11 21:03:54"/>
+						<Specs>
+							<Left Value="D:\CRT501-TEST\84M\ThinkTPMS_T100_APP"/>
+							<Right Value="D:\CRT501-TEST\CRT501_APP"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="RFData.c &lt;--> RFData(1).c">
+						<LastModified Value="2021-05-10 17:11:30"/>
+						<Specs>
+							<Left Value="C:\Users\geyuanbo\Desktop\钟宇恒\RFData.c"/>
+							<Right Value="C:\Users\geyuanbo\Desktop\钟宇恒\RFData(1).c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="ExtFlashData &lt;--> T100ExtFlashData">
+						<LastModified Value="2021-05-10 16:35:39"/>
+						<Specs>
+							<Left Value="E:\CRT501\software\ExtFlashData"/>
+							<Right Value="E:\CRT501\software\ThinkTPMS-T100\T100ExtFlashData"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+				</State>
+			</TDirCompareSession>
+			<TTextCompareSession>
+				<State>
+					<ShowContext Value="True"/>
+				</State>
+			</TTextCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
